@@ -42,7 +42,7 @@ python3 telegraph_token.py
 - 
 - **IS_TEAM_DRIVE** : (Optional field) Set to "True" if GDRIVE_FOLDER_ID is from a Team Drive else False or Leave it empty.
 - 
-- **INDEX_URL** : (Optional field) Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/' & it should have http prefix.
+- **INDEX_URL** : (Optional field) go here to generate your index url https://github.com/Achrou/goindex-theme-acrou
 - 
 - **API_KEY** : You can get this from https://my.telegram.org (DO NOT put this in quotes).
 - **API_HASH** : You can get this from https://my.telegram.org
